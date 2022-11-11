@@ -23,6 +23,22 @@
       "category": "Educação",
       "price": 1980,
       "createdAt": "2022-11-09T19:24:13.624Z"
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2022-11-11T00:25:28.801Z",
+      "id": 4
+    },
+    {
+      "description": "Mensalidade Academia",
+      "price": 100,
+      "category": "Academia",
+      "type": "outcome",
+      "createdAt": "2022-11-11T00:42:09.994Z",
+      "id": 5
     }
   ]
 }
